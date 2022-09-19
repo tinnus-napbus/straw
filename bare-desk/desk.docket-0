@@ -1,0 +1,12 @@
+:~
+  title+'Straw'
+  info+'Vote on what to publish.'
+  color+0x7c.afc2
+  version+[0 1 0]
+  website+'https://urbit.org'
+  license+'MIT'
+  base+'straw'
+  :+  %glob-http
+    'https://m.tinnus-napbus.xyz/pub/straw/glob-0v5fjp9.8u4to.m5epk.bbj08.hpn4g.glob' 
+  0v5fjp9.8u4to.m5epk.bbj08.hpn4g
+==
