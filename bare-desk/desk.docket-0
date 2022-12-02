@@ -2,7 +2,7 @@
   title+'Straw'
   info+'Vote on what to publish.'
   color+0x6c.6874
-  version+[0 1 0]
+  version+[0 1 1]
   website+'https://urbit.org'
   license+'MIT'
   base+'straw'
